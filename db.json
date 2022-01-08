@@ -1,0 +1,54 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Tribute Burger",
+      "restaurant": "Honest Burgers",
+      "web": "www.honestburgers.co.uk",
+      "description": "A mouth-watering honest beef burger",
+      "ingredients": [
+        "beef",
+        "american cheese",
+        "burger sauce",
+        "french mustard",
+        "pickes",
+        "onion",
+        "lettuce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "75",
+          "line1": "Venn Street",
+          "line2": "Clapham",
+          "postcode": "SW4 0BD",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Extra Burger 1",
+      "restaurant": "Burger Palace 2",
+      "web": "www.burgerpalace2.com",
+      "description": "Generic burger #2",
+      "ingredients": [
+        "beef",
+        "cheese",
+        "bun",
+        "lettuce",
+        "ranch dressing"
+      ],
+      "addresses":[
+        {
+          "addressId": 0,
+          "number": "123",
+          "line1": "Somewhere ave",
+          "line2": "",
+          "postcode": "90019",
+          "country": "United Kingdom"
+        }
+      ]
+    }
+  ]
+}
